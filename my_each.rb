@@ -6,5 +6,6 @@ def my_each(array)
     i=i+1
   end
   array
+  binding.pry
 end
 
