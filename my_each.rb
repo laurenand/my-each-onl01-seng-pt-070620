@@ -8,5 +8,6 @@ if block_given?
     i=i+1
   end
   array
+else
 end
 
